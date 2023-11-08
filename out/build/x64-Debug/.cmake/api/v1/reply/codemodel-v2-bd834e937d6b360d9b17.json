@@ -1,0 +1,59 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AERSP-424-HW-2-Final",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "AERSP-424-HW-2-Final::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-AERSP-424-HW-2-Final-Debug-e78eabdb4f68fd721c83.json",
+					"name" : "AERSP-424-HW-2-Final",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/AERSP 424/AERSP 424 HW/AERSP-424-HW-2-Final/out/build/x64-Debug",
+		"source" : "D:/AERSP 424/AERSP 424 HW/AERSP-424-HW-2-Final"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 2
+	}
+}
